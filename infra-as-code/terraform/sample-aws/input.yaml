@@ -1,4 +1,4 @@
-# Replace with the name which you want to give to your EKS cluster
+# Replace with the name which you want to give to your EKS clusters
 # Cluster name can have only lowercase alphanumeric characters and hyphens
 # For example: creating new cluster "digit-demo" 
 cluster_name: "naljal-demo"
